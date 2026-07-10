@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bablirawat/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/bablirawat/Leetcode/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/bablirawat/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bablirawat/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bablirawat/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bablirawat/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bablirawat/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/bablirawat/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bablirawat/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bablirawat/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bablirawat/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/bablirawat/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bablirawat/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bablirawat/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
