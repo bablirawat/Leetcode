@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bablirawat/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/bablirawat/Leetcode/tree/master/0561-array-partition) |
 | [0817-linked-list-components](https://github.com/bablirawat/Leetcode/tree/master/0817-linked-list-components) |
+| [3046-split-the-array](https://github.com/bablirawat/Leetcode/tree/master/3046-split-the-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/bablirawat/Leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/bablirawat/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0817-linked-list-components](https://github.com/bablirawat/Leetcode/tree/master/0817-linked-list-components) |
+| [3046-split-the-array](https://github.com/bablirawat/Leetcode/tree/master/3046-split-the-array) |
 ## Greedy
 |  |
 | ------- |
@@ -93,4 +95,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/bablirawat/Leetcode/tree/master/0561-array-partition) |
+| [3046-split-the-array](https://github.com/bablirawat/Leetcode/tree/master/3046-split-the-array) |
 <!---LeetCode Topics End-->
