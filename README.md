@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/bablirawat/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/bablirawat/Leetcode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/bablirawat/Leetcode/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/bablirawat/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/bablirawat/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0392-is-subsequence](https://github.com/bablirawat/Leetcode/tree/master/0392-is-subsequence) |
 ## Math
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/bablirawat/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/bablirawat/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bablirawat/Leetcode/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/bablirawat/Leetcode/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/bablirawat/Leetcode/tree/master/0224-basic-calculator) |
 | [0392-is-subsequence](https://github.com/bablirawat/Leetcode/tree/master/0392-is-subsequence) |
 ## Stack
