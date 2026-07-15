@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/bablirawat/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bablirawat/Leetcode/tree/master/0013-roman-to-integer) |
 | [0224-basic-calculator](https://github.com/bablirawat/Leetcode/tree/master/0224-basic-calculator) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/bablirawat/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/bablirawat/Leetcode/tree/master/0561-array-partition) |
 | [3046-split-the-array](https://github.com/bablirawat/Leetcode/tree/master/3046-split-the-array) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/bablirawat/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
