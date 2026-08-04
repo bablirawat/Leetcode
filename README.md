@@ -33,12 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/bablirawat/Leetcode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/bablirawat/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/bablirawat/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/bablirawat/Leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/bablirawat/Leetcode/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/bablirawat/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bablirawat/Leetcode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/bablirawat/Leetcode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/bablirawat/Leetcode/tree/master/0224-basic-calculator) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bablirawat/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/bablirawat/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bablirawat/Leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/bablirawat/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/bablirawat/Leetcode/tree/master/0202-happy-number) |
 | [0817-linked-list-components](https://github.com/bablirawat/Leetcode/tree/master/0817-linked-list-components) |
 | [3046-split-the-array](https://github.com/bablirawat/Leetcode/tree/master/3046-split-the-array) |
 | [3238-find-the-number-of-winning-players](https://github.com/bablirawat/Leetcode/tree/master/3238-find-the-number-of-winning-players) |
@@ -112,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bablirawat/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/bablirawat/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
