@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/bablirawat/Leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/bablirawat/Leetcode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/bablirawat/Leetcode/tree/master/0224-basic-calculator) |
+| [2427-number-of-common-factors](https://github.com/bablirawat/Leetcode/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bablirawat/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
@@ -114,9 +115,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/bablirawat/Leetcode/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bablirawat/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/bablirawat/Leetcode/tree/master/0202-happy-number) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/bablirawat/Leetcode/tree/master/2427-number-of-common-factors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/bablirawat/Leetcode/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/bablirawat/Leetcode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
