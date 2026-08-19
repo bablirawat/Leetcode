@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/bablirawat/Leetcode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/bablirawat/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/bablirawat/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/bablirawat/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/bablirawat/Leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/bablirawat/Leetcode/tree/master/0392-is-subsequence) |
 ## Math
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/bablirawat/Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/bablirawat/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/bablirawat/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/bablirawat/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/bablirawat/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/bablirawat/Leetcode/tree/master/0707-design-linked-list) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/bablirawat/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/bablirawat/Leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/bablirawat/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/bablirawat/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/bablirawat/Leetcode/tree/master/0202-happy-number) |
 | [0817-linked-list-components](https://github.com/bablirawat/Leetcode/tree/master/0817-linked-list-components) |
 | [3046-split-the-array](https://github.com/bablirawat/Leetcode/tree/master/3046-split-the-array) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/bablirawat/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/bablirawat/Leetcode/tree/master/0202-happy-number) |
 ## Enumeration
 |  |
