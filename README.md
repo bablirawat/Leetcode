@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/bablirawat/Leetcode/tree/master/0561-array-partition) |
 | [0817-linked-list-components](https://github.com/bablirawat/Leetcode/tree/master/0817-linked-list-components) |
 | [0877-stone-game](https://github.com/bablirawat/Leetcode/tree/master/0877-stone-game) |
+| [1254-number-of-closed-islands](https://github.com/bablirawat/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bablirawat/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/bablirawat/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3046-split-the-array](https://github.com/bablirawat/Leetcode/tree/master/3046-split-the-array) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/bablirawat/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bablirawat/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/bablirawat/Leetcode/tree/master/0226-invert-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/bablirawat/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/bablirawat/Leetcode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/bablirawat/Leetcode/tree/master/0226-invert-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/bablirawat/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Sliding Window
 |  |
 | ------- |
@@ -237,8 +240,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/bablirawat/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/bablirawat/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/bablirawat/Leetcode/tree/master/0509-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/bablirawat/Leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
