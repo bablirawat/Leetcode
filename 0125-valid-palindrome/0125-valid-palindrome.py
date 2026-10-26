@@ -1,8 +1,10 @@
 class Solution(object):
     def isPalindrome(self, s):
-       s="".join(ch.lower()for ch in s if ch.isalnum())
-       if s==s[::-1]:
-        return True
-       else:
-        return False 
-        
+        m = ""
+
+        for ch in s.lower():
+            if ch.isalnum():
+                m += ch
+
+        return m == m[::-1]
+     
