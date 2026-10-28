@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3238-find-the-number-of-winning-players](https://github.com/bablirawat/Leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bablirawat/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/bablirawat/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/bablirawat/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/bablirawat/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/bablirawat/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/bablirawat/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/bablirawat/Leetcode/tree/master/0877-stone-game) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/bablirawat/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bablirawat/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/bablirawat/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/bablirawat/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/bablirawat/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -254,4 +257,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/bablirawat/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bablirawat/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/bablirawat/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
