@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3238-find-the-number-of-winning-players](https://github.com/bablirawat/Leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bablirawat/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/bablirawat/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/bablirawat/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/bablirawat/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/bablirawat/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bablirawat/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/bablirawat/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/bablirawat/Leetcode/tree/master/0224-basic-calculator) |
 | [0392-is-subsequence](https://github.com/bablirawat/Leetcode/tree/master/0392-is-subsequence) |
 | [2409-count-days-spent-together](https://github.com/bablirawat/Leetcode/tree/master/2409-count-days-spent-together) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/bablirawat/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/bablirawat/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bablirawat/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/bablirawat/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/bablirawat/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/bablirawat/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/bablirawat/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Pigeonhole Principle
 |  |
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/bablirawat/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bablirawat/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/bablirawat/Leetcode/tree/master/0226-invert-binary-tree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/bablirawat/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -223,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/bablirawat/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/bablirawat/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bablirawat/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/bablirawat/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -258,4 +264,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/bablirawat/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bablirawat/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/bablirawat/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/bablirawat/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/bablirawat/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
